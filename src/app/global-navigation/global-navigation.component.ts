@@ -12,7 +12,6 @@ export class GlobalNavigationComponent implements OnInit {
     constructor(private modalService: NgbModal) {}
 
     ngOnInit() {
-        //console.log('Hello Home');
     }
 
     openLoginModal() {

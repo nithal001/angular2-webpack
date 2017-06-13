@@ -15,7 +15,7 @@ import { routing } from './app.routing';
   imports: [
     BrowserModule,
     routing,
-    NgbModule.forRoot(),
+    NgbModule.forRoot()
   ],
   declarations: [
     AppComponent,
