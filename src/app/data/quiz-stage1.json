@@ -1,0 +1,79 @@
+{
+    "id": 1,
+    "name": "Stage One",
+    "description": "Stage One Quiz",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "Who is the best bastman of all time?",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Sachin Tendulkar",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "Brian Lara",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Don Bradman",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Virat Kohli",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "multipleChoice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "Which team won 2011 worldcup",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1011,
+                    "name": "Australia",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1011,
+                    "name": "Srilanka",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1011,
+                    "name": "India",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1011,
+                    "name": "England",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "multipleChoice",
+                "isActive": true
+            }
+        }
+    ]
+}
